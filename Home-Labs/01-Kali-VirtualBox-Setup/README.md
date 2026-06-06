@@ -20,7 +20,7 @@ In cybersecurity, safety and containment are vital. Running security tools, exec
 * __Network Connectivity Test__: To verify that the VM is working correctly, I opened the Linux Terminal and executed a packet internet groper command:
   ```bash
   ping -c 3 google.com
-![Kali Linux Desktop Verification](Kali desktop.png)
+![Kali Linux Desktop Verification](Kali-desktop.png)
 
 ## Future Plans
 With the baseline infrastructure established, this lab will serve as the foundation for my upcoming portfolio projects, including:
