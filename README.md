@@ -9,6 +9,12 @@
 * splunk 
 * wireshark
 ## Key Sections & Navigation
+```text
+├── araba-cybersecurity-hub
+├── README.md
+├── Home-Labs
+    └── 01-Kali-VirtualBox-Setup
+```
 ## Connect with Me
 * GitHub: araba07
 * LinkedIn: www.linkedin.com/in/araba-oppey-883221297
